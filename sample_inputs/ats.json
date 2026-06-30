@@ -1,0 +1,25 @@
+[
+  {
+    "candidate_name": "Rohit Verma",
+    "email_address": "rohit.v@outlook.com",
+    "mobile": "14155550199",
+    "employer": "Stripe",
+    "role": "Staff Engineer",
+    "summary": "Payments infra engineer, ex-fintech",
+    "location_city": "San Francisco",
+    "location_country": "USA",
+    "tags": ["Go", "Postgres", "Kubernetes"]
+  },
+  {
+    "fullName": "Karthik Reddy",
+    "primary_email": "karthik.reddy@protonmail.com",
+    "phone_number": "9000011122",
+    "organization": "Freshworks",
+    "position": "ML Engineer",
+    "tech_stack": "python, ml, sql"
+  },
+  {
+    "candidate_name": "",
+    "email_address": null
+  }
+]

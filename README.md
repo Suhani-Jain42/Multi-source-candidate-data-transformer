@@ -105,7 +105,4 @@ for n, f in inspect.getmembers(t, inspect.isfunction):
 - GitHub extraction requires outbound network access; if unavailable it
   degrades to zero records with a logged warning rather than crashing.
 
-## Demo video
 
-See submission - covers a default-schema run, a custom-config run, and a
-walkthrough of the email-based merge + conflict-resolution edge case.
